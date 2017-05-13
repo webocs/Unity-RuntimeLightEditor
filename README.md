@@ -1,5 +1,9 @@
 # Unity-RuntimeLightEditor
 
+This is a runtime Light editor that allows you to place UI sliders and a color picker to edit a light on runtime. This is how it looks like:
+
+![Overview](http://i.imgur.com/L7tVxxU.gif)
+
 ## How to use it
 
 Inside the Light Orbiter folder there's a scene called "main" you get a full example from that scene.
